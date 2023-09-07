@@ -1,0 +1,6 @@
+cei_code,d_name,u_name,cei_status,updated_at
+121,A,abc,success,2023-08-12 23:59:59.0
+122,B,bcd,failed,2023-08-12 23:59:59.0
+121,A,null,failed,2023-08-13 23:59:59.0
+121,C,null,success,2023-08-13 23:59:59.0
+122,C,bcd,success,2023-08-14 23:59:59.0
